@@ -1,2 +1,2 @@
-# teste_pratico_cedro_btg
+# Teste prático
 Teste prático de autenticação em Python usando JWT e Django
