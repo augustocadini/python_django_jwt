@@ -1,6 +1,14 @@
 # JWT App
 API de amostra para autenticação em Python usando a biblioteca SimpleJWT e o framework Django.
 
+Para a implementação da solução foi criada uma View, adição de URLs para criação de Token e rota para a View e testes unitários.
+Arquivos com as implementações de interesse:
+```
+exe_jwt_auth/urls.py
+api_jwt_auth/views.py
+api_jwt_auth/tests.py
+```
+
 ## Instruções de uso
 
 * ### Configuração
