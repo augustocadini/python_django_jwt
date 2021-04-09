@@ -1,2 +1,2 @@
-# Teste prático
-Teste prático de autenticação em Python usando JWT e Django
+# JWT App
+API de amostra para autenticação em Python usando JWT e Django.
