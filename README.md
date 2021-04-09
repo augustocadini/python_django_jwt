@@ -32,6 +32,12 @@ Usuário root existente:
 username: augusto
 password: asc
 ```
+  * **Executando testes**
+
+Para executar os testes unitários execute o seguinte comando, 3 (três) testes serão executados.
+```
+./manage.py test
+```
 
   * **Conhecendo os endpoints**
 
