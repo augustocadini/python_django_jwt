@@ -1,8 +1,0 @@
-Nome Completo: Augusto Cadini
-Data de Nascimento: 01/01/2001
-CPF: 000.000.000-00
-RG: 0000000000
-
-Usuario Autenticado
-Login: augusto
-IP: 127.0.0.1

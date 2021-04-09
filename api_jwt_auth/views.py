@@ -7,7 +7,7 @@ from rest_framework_simplejwt.models import TokenUser
 import os
 
 # Create your views here.
-class createDocument(APIView):
+class CreateDocument(APIView):
     permission_classes = (IsAuthenticated,)
     
     def post(self,request):
