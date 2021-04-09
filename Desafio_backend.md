@@ -1,4 +1,4 @@
-# Desafio do BTG Pactual Digital 
+# Desafio do * 
 Desenvolva um serviço web REST onde conterá 2 funcionalidades:
 
  1. Endpoint para autenticação do serviço;
