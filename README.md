@@ -46,6 +46,7 @@ A aplicação expõe 3 (três) endpoints para interação:
   * **Obtendo o Token**
 
 Para obter o Token de autenticação utilize uma chamada para o endpoint de login passando como parâmetros um usuário e senha.
+
 ```curl -XPOST http://localhost:8000/login/ -d "username=augusto&password=asc"```
 
 O retorno deve ser um conteúdo no formato JSON com um token de refresh e um token de acesso, como a seguir.
